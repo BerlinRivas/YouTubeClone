@@ -1,0 +1,15 @@
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* Set the aspect ratio to 16:9 (for example) */
+    height: 0;
+    overflow: hidden;
+  }
+  
+  .video-wrapper iframe {
+    position: absolute;
+    top: 20%;
+    left: 27%;
+    width: 55%;
+    height: 55%;
+  }
+  
