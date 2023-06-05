@@ -58,32 +58,32 @@ export default function Header() {
           <img src="img/show more.PNG" alt="" />
           About
         </Link>
-        <a href="#" class="links">
+        <a href="https://www.youtube.com/feed/subscriptions" class="links">
           <img src="img/subscription.PNG" alt="" />
           subscription
         </a>
         <hr class="seperator" />
-        <a href="#" class="links">
+        <a href="https://www.youtube.com/feed/library" class="links">
           <img src="img/library.PNG" alt="" />
           library
         </a>
-        <a href="#" class="links">
+        <a href="https://www.youtube.com/feed/history" class="links">
           <img src="img/history.PNG" alt="" />
           history
         </a>
-        <a href="#" class="links">
+        <a href="https://studio.youtube.com/channel/UC6HAEZusAJncSdQWnLjz58A/videos" class="links">
           <img src="img/your-video.PNG" alt="" />
           your video
         </a>
-        <a href="#" class="links">
+        <a href="https://www.youtube.com/playlist?list=WL" class="links">
           <img src="img/watch-later.PNG" alt="" />
           watch later
         </a>
-        <a href="#" class="links">
+        <a href="https://www.youtube.com/playlist?list=LL" class="links">
           <img src="img/liked video.PNG" alt="" />
           like video
         </a>
-        <a href="#" class="links">
+        <a href="https://www.youtube.com/feed/clips" class="links">
           <img src="img/show more.PNG" alt="" />
           show more
         </a>

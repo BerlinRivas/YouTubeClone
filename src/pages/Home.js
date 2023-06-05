@@ -10,7 +10,7 @@ const VideoCardContainer = ({ searchQuery }) => {
     const fetchData = async () => {
       try {
 
-        const api_key = "AIzaSyDBmL5qbTIZhijDBSrsQKSlhJmGvfUN_JI";
+        const api_key = "AIzaSyBzmMCwn2zRWeuLVUO9dHrW_g6TiKU1MPo";
         const video_http = "https://www.googleapis.com/youtube/v3/videos?";
         const channel_http = "https://www.googleapis.com/youtube/v3/channels?";
 
